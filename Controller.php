@@ -1,4 +1,7 @@
 <?php
+
+/* This is the comment to test github >w< */
+
 declare(strict_types=1);
 
 class YahtzeeController {
