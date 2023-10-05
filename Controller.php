@@ -1,6 +1,6 @@
 <?php
 
-/* This is the comment to test github >w< */
+/* This is the comment to test GitHub >w< */
 
 declare(strict_types=1);
 
